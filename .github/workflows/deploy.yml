@@ -1,0 +1,16 @@
+name: Deploy Jekyll site to Pages
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  test-trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Test echo
+        run: echo "Workflow was triggered successfully!"
