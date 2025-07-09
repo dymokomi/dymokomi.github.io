@@ -3,23 +3,5 @@ layout: default
 title: Hello
 ---
 
-<!-- Testing automatic deployment -->
+It’s been self-evident for a while that we’ve stepped into a remarkable moment in history. It reminds me of the late ’90s, the early Internet days, only grander, more electrifying, and a little frightening. I’ve decided to pour most of my time into the problem of intelligence, not the AGI, ASI, and other acronym-laden milestones the big labs chase, but the nature of intelligence that exists outside the human brain and where we stand in relation to it. We’ve been iterating since the ’60s, yet we’re still hemmed in by last-century constraints. Technology should feel more social, more human. I want to figure out what that looks like.
 
-## An easy to use, minimal, text focused Jekyll theme
-
-[Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
-
-This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub Pages to host your blog while getting the same awesome Bear Blog feels.
-
-**Stop worrying about the style, focus on your writing.**
-
-- Looks great on *any* device
-- Tiny, optimized, and awesome pages
-- No trackers, ads, or scripts, *did I mention minimal already?*
-- Auto light and dark themes
-- Tag support, to filter blog pages
-- Quick, *15 minute* setup
-- Gallery view for your images
-- Code highlighting
-
-Have a look around, this website is already themed with **jekyllBear**. If you like it, head over to the GitHub [repository](https://github.com/knhash/jekyllBear) for installation instructions.
