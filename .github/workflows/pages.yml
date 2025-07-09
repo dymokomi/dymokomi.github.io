@@ -1,4 +1,5 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
+# Updated to ensure proper triggering
 name: Deploy Jekyll site to Pages
 
 on:
