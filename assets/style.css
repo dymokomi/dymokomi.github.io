@@ -62,7 +62,6 @@ a {
     font-family: var(--font-main);
     cursor: pointer;
     text-decoration: none;
-    border-bottom: 3px solid var(--main-color);
 }
 
 a:hover {
@@ -74,7 +73,6 @@ a:hover {
 header {
     margin-bottom: 40px;
     padding-bottom: 20px;
-    border-bottom: 3px dotted #232333;
 }
 
 nav a {
@@ -124,12 +122,10 @@ blockquote {
 }
 
 header {
-  border-bottom: 3px dotted var(--main-color);
 }
 
 footer {
     margin-top: 40px;
-    border-top: 3px dotted var(--main-color);
     padding: 25px 0;
     text-align: center;
 }
@@ -196,10 +192,7 @@ td {
     font-size: 1em;
 }
 
-/* external link marker */
-a[href^="http"]:where(:not([href*="knhash.in/"])):not(:has(img))::after {
-    content: "↗"
-}
+/* external link marker removed */
 
 /* Form elements */
 input, button, textarea, select {
