@@ -1,7 +1,7 @@
 ###########
 # site.title
 
-title: Dy Mokomi
+title: Dy Mokomi 
 description: personal site
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
 url: "https://dymokomi.github.io" # the base hostname & protocol for your site
